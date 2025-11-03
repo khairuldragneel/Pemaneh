@@ -140,7 +140,7 @@ function updateCartUI() {
     } else {
         cartItems.innerHTML = cart.map(item => `
             <div class="cart-item">
-                <div class="cart-item-image" style="background: ${item.image};"></div>
+                <div class="cart-item-image" style="background-image: url('${item.image}'); background-size: cover; background-position: center;"></div>
                 <div class="cart-item-details">
                     <div class="cart-item-name">${item.name}</div>
                     <div class="cart-item-price">MYR ${item.price.toFixed(2)}</div>
