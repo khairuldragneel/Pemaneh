@@ -12,7 +12,7 @@ const cakes = [
         name: 'Kek Batik Indulgence',
         description: 'Light and fluffy lemon-infused chiffon cake',
         price: 38.00,
-        image: './images/kek1.jpg'
+        image: './images/kek2.jpg'
 
     },
     {
@@ -20,7 +20,7 @@ const cakes = [
         name: 'Kek Tiramisu T20',
         description: 'Aromatic pandan-flavored cake with light green color',
         price: 42.00,
-        image: './images/kek1.jpg'
+        image: './images/kek3.jpg'
 
     },
     {
@@ -28,7 +28,7 @@ const cakes = [
         name: 'Chocolate Indulgence Ultra T20',
         description: 'Rich and decadent chocolate fudge layer cake',
         price: 50.00,
-        image: './images/kek1.jpg'
+        image: './images/kek4.jpg'
 
     },
     {
@@ -36,7 +36,7 @@ const cakes = [
         name: 'BaoBao Tarik Cake',
         description: 'Malaysian tea-inspired cake with creamy layers',
         price: 48.00,
-        image: './images/kek1.jpg'
+        image: './images/kek2.jpg'
 
     },
     {
@@ -44,7 +44,7 @@ const cakes = [
         name: 'Kek Batik B40',
         description: 'Colorful patterned cake with chocolate and vanilla swirls',
         price: 55.00,
-        image: './images/kek1.jpg'
+        image: './images/kek3.jpg'
 
     }
 ];
